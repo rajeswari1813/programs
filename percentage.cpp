@@ -11,7 +11,7 @@ int main()
 	printf("mech");
 	scanf("%f",&mech);
 	printf("civil");
-	scanf("%f",civil);
+	scanf("%f",&civil);
 	percentage = (math+phy+cs+mech+civil)/5;
 	printf("%f",percentage);
 	
