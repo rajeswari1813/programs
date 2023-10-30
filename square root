@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+	double x,sqr;
+	scanf("%lf",&x);
+	sqr=sqrt (x);
+	printf("square root %lf",sqr);
+	return 0;
